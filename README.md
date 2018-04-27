@@ -1,7 +1,7 @@
-# BSE322A - Bioinformatics & Computational Biology
+## BSE322A - Bioinformatics & Computational Biology
 ## Programming Assignment
 
-Dated: 29th March 2018
+Dated: 29th March 2018 \
 Rohit Gupta (150594)
 
 ### Algorithm Implemented : Local Alignments in sequences with Affine Gap Penalty
@@ -14,7 +14,8 @@ Rohit Gupta (150594)
 ### Output Format -
 * The code outputs all details along with local alignments at stdout.
 
-### Running instructions - Run the following commands to get alignments from input1.txt(in folder input).
+### Running instructions -
+Run the following commands to get alignments from input1.txt(in folder input).
 > make \
 > ./align < input/input1.txt
 
