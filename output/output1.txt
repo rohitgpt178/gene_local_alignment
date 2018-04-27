@@ -1,0 +1,13 @@
+--- MAXIMUM SCORE = 3 ---
+--- ALIGNMENT 1 ---
+Indexes of alignments in sequences : (1,3) AND (4,6)
+Length of local alignment = 3
+TAA
+TAA
+
+--- ALIGNMENT 2 ---
+Indexes of alignments in sequences : (1,5) AND (1,5)
+Length of local alignment = 5
+TAATA
+TACTA
+

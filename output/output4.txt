@@ -1,0 +1,19 @@
+--- MAXIMUM SCORE = 4 ---
+--- ALIGNMENT 1 ---
+Indexes of alignments in sequences : (124,127) AND (162,165)
+Length of local alignment = 4
+EVRR
+EVRR
+
+--- ALIGNMENT 2 ---
+Indexes of alignments in sequences : (267,270) AND (454,457)
+Length of local alignment = 4
+AYGK
+AYGK
+
+--- ALIGNMENT 3 ---
+Indexes of alignments in sequences : (395,402) AND (41,48)
+Length of local alignment = 8
+AILENYQQ
+AIWENIQQ
+

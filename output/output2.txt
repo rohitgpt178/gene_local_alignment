@@ -1,0 +1,13 @@
+--- MAXIMUM SCORE = 14 ---
+--- ALIGNMENT 1 ---
+Indexes of alignments in sequences : (35,61) AND (75,102)
+Length of local alignment = 28
+TAGACACAGAGAGAGT-ATGCAGGACAG
+TAGCCAGAGAGAGAGTCACCCAGTACAG
+
+--- ALIGNMENT 2 ---
+Indexes of alignments in sequences : (35,63) AND (75,104)
+Length of local alignment = 30
+TAGACACAGAGAGAGT-ATGCAGGACAGGG
+TAGCCAGAGAGAGAGTCACCCAGTACAGAG
+
